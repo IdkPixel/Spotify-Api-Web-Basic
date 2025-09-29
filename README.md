@@ -1,3 +1,7 @@
+Aplicación web para gestionar música, construida con React y Node.js, con backend en MySQL y soporte para usuarios y canciones.
+
+
+
 Base de datos:
 
 
