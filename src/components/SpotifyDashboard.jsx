@@ -5,7 +5,7 @@ import PlaylistList from "./spotify/PlaylistList";
 import AddTracks from "./spotify/AddTracks";
 import { FaGithub, FaInstagram } from "react-icons/fa"; 
 
-const CLIENT_ID = "629cefce34594ddf9e76f55d54122bc2"; // Reemplaza con tu Client ID
+const CLIENT_ID = "Tu_Client_ID"; // Reemplaza con tu Client ID
 const REDIRECT_URI = "http://localhost:5173/spotify-callback"; // Reemplaza con tu Redirect URI
 const SCOPES = [
   "playlist-modify-private",
